@@ -232,15 +232,24 @@ Nói chung bạn có thể gộp các điều kiện phức tạp và khai báo 
 
 Trường hợp này tôi muốn tìm kiếm các từ khóa trong 2 trường đó là `title` và `text`. Do đó, Tôi khai báo điều kiện `multi_match` và thêm 2 trường mong muốn vào thuộc tính `fields`.
 
+Kết quả là:
+ 
+![Screenshot from 2016-01-25 10:41:56.png](/uploads/images/f817bb52ebf40f927e39324c5ca708c0aafde390/61c343b0db683c50f2656efe7f17902bd0c05aa0.png) 
+
 Ngoài ra Elasticsearch còn cung cấp rất nhiều tính năng khác bạn có thể tham khảo trên github của [Elasticsearch](https://github.com/elastic/elasticsearch)
 
 
 Bạn có thể tham khảo code demo tại [đây](https://github.com/HoangQuan/elasticsearch-demo)
 
 Tài liệu tham khảo:
+
 http://dev.mysql.com/doc/refman/5.7/en/fulltext-natural-language.html
+
 https://msdn.microsoft.com/en-us/library/ms142571.aspx
+
 https://github.com/HoangQuan/elasticsearch-demo
+
 Mong bài viết sẽ hữu ích với các bạn.
+
 Cảm ơn!
 
